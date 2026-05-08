@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Imran
 
-🎓 MSc Data Science for Business | ⚡ Aspiring Data Scientist in Healthcare & AI
+🎓 MSc Data Science for Business | ⚡ Aspiring Data Scientist in Healthcare & AI | 
 📍 Based in Scotland | Building data-driven and AI-powered solutions for healthcare innovation and smarter decision-making
 
 ---
