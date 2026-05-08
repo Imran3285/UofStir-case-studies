@@ -78,13 +78,16 @@ Innovation management case study evaluating Solasta Bio’s business model, mark
 ### 📈 Personal Development Plan
 
 **Description:**  
-Personal and professional development portfolio outlining my career goals, skills assessment, and a structured roadmap to grow as a data scientist and AI engineer.
+Personal and professional development portfolio outlining my journey toward becoming a Data Scientist and AI professional, with a strong focus on healthcare analytics and data-driven innovation in Ireland. The project highlights my career goals, technical skill development, and a structured roadmap for continuous learning and professional growth.
 
 **Key Highlights:**
 
-* Conducted SWOT analysis and skills assessment  
-* Defined clear short-, medium-, and long-term career goals  
-* Developed a structured and realistic learning and career progression plan  
+* Conducted SWOT analysis and professional skills assessment
+* Defined clear short-, medium-, and long-term career goals
+* Developed a structured learning and career progression plan
+* Focused on building expertise in Python, SQL, Power BI, and Machine Learning
+* Identified strategies for continuous technical and professional development
+* Aligned career ambitions with opportunities in healthcare and AI-driven industries
 
 ---
 
